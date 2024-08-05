@@ -30,3 +30,9 @@ https://www.yuque.com/docs/share/635e023a-3be7-4b7b-88c0-ec3d1650c784?# 《Java�
 https://www.yuque.com/docs/share/9f460f22-4f72-4215-b0ec-df16301e1743?# 《SpringBoot1》nmge
 ```
 
+- `设计模式`
+
+```java
+https://www.yuque.com/yzw236/ip8fed/akgaff?singleDoc# 《设计模式》 5zuz
+```
+
